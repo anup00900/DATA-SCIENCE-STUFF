@@ -1,0 +1,1 @@
+It Contains Linear regression basic ,gradient descent basic ans also linear regression from scratch.
